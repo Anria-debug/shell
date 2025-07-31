@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-
+Making a change
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
